@@ -1,0 +1,18 @@
+USABILITY TESTING
+
+Goal : User dapat bertransaksi dengan mudah untuk membeli kebutuhan fashion yang diinginkan
+
+Tools : 
+- Melakukannya dengan kondisi mood sedang baik 
+- Device untuk dokumentasi
+- Handphone
+- Timer
+- Buki catatan dan pulpen
+- Charger dan perlengkapannya seperti colokan, dll
+
+
+User Criterias :
+- User yang senang berbelanja yang berusia maksimal 30 tahun
+
+Intro :
+Selamat Pagi/Siang/Malam. Maaf mengganggu waktunya Pak/Ibu dan Terima kasih sudah berkenan meluangkan waktunya untuk kami.
