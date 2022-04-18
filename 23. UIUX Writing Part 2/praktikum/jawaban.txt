@@ -1,0 +1,12 @@
+User akan berbelanja menggunakan aplikasi berbelanja online yang mempunyai fitur harga produk yang real time, contohnya saat pengguna mencari barang, maka harga nya bisa berubah sewaktu-waktu. 
+
+Saat mereka memeriksa harga suatu barang, dan pengguna akan melakukan checkout, tiba-tiba harga barang tersebut melonjak naik. 
+
+Tugas kalian adalah tulis sebuah pesan yang menginformasikan kenaikan harga pada barang tersebut, dan bagaimana cara kalian menawarkan solusi sehingga customer tersebut terus melakukan checkout pada website kamu.
+
+Jawaban :
+Yah... Mohon maaf nih, saat ini harga barang xxx sedang mengalami kenaikan.
+Tapi jangan khawatir, kamu bisa gunakan kode voucher xxx untuk mendapatkan diskon 10%.
+
+Kemudian ada button :
+Lanjut Belanja
