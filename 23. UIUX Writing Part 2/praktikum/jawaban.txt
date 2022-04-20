@@ -6,7 +6,9 @@ Tugas kalian adalah tulis sebuah pesan yang menginformasikan kenaikan harga pada
 
 Jawaban :
 Yah... Mohon maaf nih, saat ini harga barang xxx sedang mengalami kenaikan.
-Tapi jangan khawatir, kamu bisa gunakan kode voucher xxx untuk mendapatkan diskon 10%.
+Tapi jangan khawatir, kamu bisa gunakan kode voucher xxx untuk mendapatkan diskon 5%.
 
 Kemudian ada button :
 Lanjut Belanja
+
+Link Figma : https://www.figma.com/file/lR04OjZUIoKjdCHWavnhhk/Section-23?node-id=0%3A1
