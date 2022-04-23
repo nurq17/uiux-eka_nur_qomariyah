@@ -1,0 +1,5 @@
+Lengkapilan desain yang telah kalian buat sebelum pada tema e commerce. Desain kalian harus beberapa hal berikut
+1. Terdapat halaman welcome page navbar beserta list product 
+2. Ketika di klik salah satu list produk maka akan masuk ke halaman detail produk
+3. Terdapat pula desain untuk pelanggan melakukan pembelian.
+4. Buat prototyping untuk flow tersebut
